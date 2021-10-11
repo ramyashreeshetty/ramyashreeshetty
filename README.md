@@ -1,61 +1,36 @@
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
-
-
+![](github-profile-readme/profile-banner.gif)<!-- If you want the template for my gif, email me! -->
+<br>
 <body>
-<h1 align="center">~ Hey Folks ~</h1>
-<br>
+<h2 align="center"> About me </h2>
+<div>
+Hello folks !! Ramyashree here :tulip: I am deeply passionate about software development and my interest mainly lies in application development and continuously exploring various field as well.Fast forward to today, my main focus is to learn technologies related to building a robust and production ready application.
+</div>
+<div>
+
+<h2 align="center"> Languages and Tools </h2>
+  
 <div align="center">
-<img src="https://i.imgur.com/jx17oHT.gif">
+  
+![C](https://img.shields.io/badge/-C-ff69b4?&logo=C)
+![Python](https://img.shields.io/badge/-Python-ff69b4?&logo=Python)
+![Java](https://img.shields.io/badge/-Java-ff69b4?&logo=Java&logoColor=007396)
+![Android](https://img.shields.io/badge/-AndroidStudio-ff69b4?&logo=Android)
+![Firebase](https://img.shields.io/badge/-Firebase-ff69b4?&logo=Firebase)
+![HTML](https://img.shields.io/badge/-HTML-ff69b4?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-ff69b4?&logo=CSS3)
+![SQL](https://img.shields.io/badge/-SQL-ff69b4?&logo=MySQL)
+  
+</div>
+  
+<h2 align="center"> You Contact me :point_down: </h2>
+<div>
 </div>
 <br>
 <div>
-<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
-<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
-<li>
-<b>Name:</b> Lilly</li>
-<li>
-<b>Fursona:</b> Female Snow Fox > ~ <
-</li>
-<li>
-<b>Loves:</b> you! and donuts and games maybe -///-
-</li>
-<li>
-<b>Gender:</b> she/her/Female
-</li>
-<li>
-<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
-</li>
-<li>
-<b>Working @:</b> Intave Anticheat | snens.team
-</li>
-<br>
-<p><b>     Thanks fow weading this onyee-san<br>
-                  verwy cuwute of chu</b></p>
-</div>
-<div>
-<h2 align="left">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
-<p>
-<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
-</div>
-<div>
-<p align="center"><img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
- <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
-Im also very good at writing Guides like my Yuzu Emulator Guide or writing this shit here. Literally took me Hours to write this while hearing music. Also good @ Graphics Design, which i mostly post on Twitter, where a big part my Stuff already is sitting
-</p>
-<br>
-<h2>           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
-<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
-<br>
-<p align="center">Hewe awe some of my <br>
-most used s-s-sociaw things >~< xoxox</p>
-<p align="center"><a href="https://twitter.com/AzarielDev" target="_blank"><img src="https://img.shields.io/badge/AzawielDev%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/cozythighs" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
-<p align="center"><a href="https://twitch.tv/sinonaim" target="_blank"><img src="https://img.shields.io/badge/Sinonaim%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p>
-</div>
-<br>
-<div>
+  
+  
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <div align="center">
-<img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif">
 </div>
 <hr>
 </div>
@@ -64,10 +39,6 @@ most used s-s-sociaw things >~< xoxox</p>
 
 ### Languages
 
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 
 <a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
