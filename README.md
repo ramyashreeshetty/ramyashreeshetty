@@ -1,7 +1,6 @@
 ![](github-profile-readme/profile-banner.gif)<!-- If you want the template for my gif, email me! -->
 <br>
 <body>
-<h2 align="center"> About me </h2>
 <div>
 Hello folks !! Ramyashree here :tulip: I am deeply passionate about software development and my interest mainly lies in application development and continuously exploring various field as well.Fast forward to today, my main focus is to learn technologies related to building a robust and production ready application.
 </div>
@@ -23,23 +22,20 @@ Hello folks !! Ramyashree here :tulip: I am deeply passionate about software dev
 </div>
   
 <h2 align="center"> You Contact me :point_down: </h2>
-<div>
-</div>
-<br>
-<div>
+<div align="center" padding="12px">
   
   
-<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
-<div align="center">
+:email: : ramyashetty18042000@gmail.com 
+  
+ <a href="https://www.linkedin.com/in/ramyashree-shetty/"><img alt="LinkedIn" height="32" width="32" src="https://github.com/peterthehan/peterthehan/blob/25fe7193e0f257bcad641daa7d9af9ff778f2634/assets/linkedin.svg"></a>&nbsp;&nbsp;
+  <a href="https://github.com/ramyashreeshetty"><img alt="GitHub" height="32" width="32" src="https://github.com/peterthehan/peterthehan/blob/25fe7193e0f257bcad641daa7d9af9ff778f2634/assets/github.svg"></a>&nbsp;&nbsp;
+  <a href="https://discord.gg/6jz4SmUvWm"><img alt="Discord - Misaa#0148" title="Discord - Misaa#0148" height="32" width="32" src="https://github.com/peterthehan/peterthehan/blob/25fe7193e0f257bcad641daa7d9af9ff778f2634/assets/discord.svg"></a>
+  
 </div>
-<hr>
-</div>
-</div>
+  
+<h5 align="center">I'm up for collaborations or even just a small pep talk :> so feel free to connect </h5>
 </body>
+  
 
-### Languages
-
-
-
-<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=ramyashreeshetty&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 
