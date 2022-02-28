@@ -1,4 +1,4 @@
-![](github-profile-readme/profile-banner.gif)<!-- If you want the template for my gif, email me! -->
+![](github-profile-readme/banner-white.gif)<!-- If you want the template for my gif, email me! -->
 <br>
 
 <body>
