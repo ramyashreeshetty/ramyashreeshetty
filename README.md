@@ -34,5 +34,5 @@ Hey folks !!! Ramyashree here :tulip: I am deeply passionate about software deve
   <a href="https://github.com/ramyashreeshetty"><img alt="GitHub" height="32" width="32" src="https://github.com/peterthehan/peterthehan/blob/25fe7193e0f257bcad641daa7d9af9ff778f2634/assets/github.svg"></a>&nbsp;&nbsp;
   <a href="https://discord.gg/6jz4SmUvWm"><img alt="Discord - Misaa#0148" title="Discord - Misaa#0148" height="32" width="32" src="https://github.com/peterthehan/peterthehan/blob/25fe7193e0f257bcad641daa7d9af9ff778f2634/assets/discord.svg"></a>
   
-<h4 align="center">I'm up for a collaborations or even just a small pep talk :> so feel free to connect :heartpulse: </h4>
+<h4 align="center">I'm up for collaborations or even just a small pep talk :> so feel free to connect :heartpulse: </h4>
 </body>
