@@ -1,38 +1,39 @@
-![](github-profile-readme/new-git-ban.gif)<!-- If you want the template for my gif, email me! -->
-<br>
-
 <body>
+  <div align="center">
+Hey folks 👋 I'm open to collaborate and my interest mainly lies in application development & cloud tech. Fast forward to today, my main focus is to learn new technologies and contribute!
+  </div>
   
-<div>
-Hey folks Ramyashree here I'm passionate about software development and my interest mainly lies in application development & cloud. Fast forward to today, my main focus is to learn new technologies and contribute!
-</div>
-
-<h2 align="center"> Languages and Tools </h2>
+ &nbsp;
   
+ <div align="center">
+ <img src="https://user-images.githubusercontent.com/43513353/189687385-38465c69-c64d-45ab-8813-00455a721b17.svg">
+ <div>
+   
+<h4 align="center"> Languages and Tools </h4>
 <div align="center">
   
-![C](https://img.shields.io/badge/-C-ff69b4?&logo=C)
-![Python](https://img.shields.io/badge/-Python-ff69b4?&logo=Python)
-![Java](https://img.shields.io/badge/-Java-ff69b4?&logo=Java&logoColor=007396)
-![Android](https://img.shields.io/badge/-AndroidStudio-ff69b4?&logo=Android)
-![Firebase](https://img.shields.io/badge/-Firebase-ff69b4?&logo=Firebase)
-![HTML](https://img.shields.io/badge/-HTML-ff69b4?&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-ff69b4?&logo=CSS3)
-![SQL](https://img.shields.io/badge/-SQL-ff69b4?&logo=MySQL)
+![C](https://img.shields.io/badge/-C-000000?&logo=C)
+![Python](https://img.shields.io/badge/-Python-000000?&logo=Python)
+![Java](https://img.shields.io/badge/-Java-000000?&logo=Java&logoColor=007396)
+![Android](https://img.shields.io/badge/-AndroidStudio-000000?&logo=Android)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?&logo=Firebase)
+![HTML](https://img.shields.io/badge/-HTML-000000?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000000?&logo=CSS3)
+![SQL](https://img.shields.io/badge/-SQL-000000?&logo=MySQL)
+![AWS](https://img.shields.io/badge/-AWS-000000?&logo=amazon-aws)
  
-  
-<a href="https://ramyashreeshetty.github.io/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=ramyashreeshetty&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramyashreeshetty&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+  <a href="https://ramyashreeshetty.github.io/">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ramyashreeshetty&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&icon_color=000&bg_color=000&theme=graywhite" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramyashreeshetty&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=fff&icon_color=fff&bg_color=000&theme=graywhite" />
+  </a>
   
 </div>
   
-<h2 align="center"> You Contact me :point_down: </h2>
-<div align="center" padding="12px">
+<h4 align="center">Feel free to connect :heartpulse: </h4>
+<div align="center" padding="5px">
   
-:email: : ramyashetty18042000@gmail.com 
-  
- <a href="https://www.linkedin.com/in/ramyashree-shetty/"><img alt="LinkedIn" height="32" width="32" src="https://github.com/peterthehan/peterthehan/blob/25fe7193e0f257bcad641daa7d9af9ff778f2634/assets/linkedin.svg"></a>&nbsp;&nbsp;
-  <a href="https://github.com/ramyashreeshetty"><img alt="GitHub" height="32" width="32" src="https://github.com/peterthehan/peterthehan/blob/25fe7193e0f257bcad641daa7d9af9ff778f2634/assets/github.svg"></a>&nbsp;&nbsp;
-  <a href="https://discord.gg/6jz4SmUvWm"><img alt="Discord - Misaa#0148" title="Discord - Misaa#0148" height="32" width="32" src="https://github.com/peterthehan/peterthehan/blob/25fe7193e0f257bcad641daa7d9af9ff778f2634/assets/discord.svg"></a>
-  
-<h4 align="center">I'm up for collaborations or even just a small pep talk :> so feel free to connect :heartpulse: </h4>
+ <a href="https://www.linkedin.com/in/ramyashree-shetty/"><img alt="LinkedIn" height="32" width="32" src="https://img.icons8.com/ios/50/000000/linkedin-circled--v1.png"></a>&nbsp;&nbsp;
+ <a href="https://github.com/ramyashreeshetty"><img alt="GitHub" height="32" width="32" src="https://img.icons8.com/ios-filled/50/000000/github.png"></a>&nbsp;&nbsp;
+ <a href="https://discord.gg/6jz4SmUvWm"><img alt="Discord - Misaa#0148" title="Discord - Misaa#0148" height="32" width="32" src="https://img.icons8.com/ios/50/000000/discord-logo--v1.png"></a>
+
 </body>
