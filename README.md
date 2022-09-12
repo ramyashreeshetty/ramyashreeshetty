@@ -32,8 +32,8 @@ Hey folks 👋 I'm open to collaborate and my interest mainly lies in applicatio
 <h4 align="center">Feel free to connect :heartpulse: </h4>
 <div align="center" padding="5px">
   
- <a href="https://www.linkedin.com/in/ramyashree-shetty/"><img alt="LinkedIn" height="32" width="32" src="https://img.icons8.com/ios/50/000000/linkedin-circled--v1.png"></a>&nbsp;&nbsp;
- <a href="https://github.com/ramyashreeshetty"><img alt="GitHub" height="32" width="32" src="https://img.icons8.com/ios-filled/50/000000/github.png"></a>&nbsp;&nbsp;
- <a href="https://discord.gg/6jz4SmUvWm"><img alt="Discord - Misaa#0148" title="Discord - Misaa#0148" height="32" width="32" src="https://img.icons8.com/ios/50/000000/discord-logo--v1.png"></a>
+ <a href="https://www.linkedin.com/in/ramyashree-shetty/"><img alt="LinkedIn" height="32" width="32" src="https://img.icons8.com/ios/50/ffffff/linkedin-circled--v1.png"></a>&nbsp;&nbsp;
+ <a href="https://github.com/ramyashreeshetty"><img alt="GitHub" height="32" width="32" src="https://img.icons8.com/ios-filled/50/ffffff/github.png"></a>&nbsp;&nbsp;
+ <a href="https://discord.gg/6jz4SmUvWm"><img alt="Discord - Misaa#0148" title="Discord - Misaa#0148" height="32" width="32" src="https://img.icons8.com/ios/50/ffffff/discord-logo--v1.png"></a>
 
 </body>
