@@ -4,7 +4,7 @@
 <body>
   
 <div>
-Hey folks !!! Ramyashree here :tulip: I am deeply passionate about software development and my interest mainly lies in application development and continuously exploring various field as well. Fast forward to today, my main focus is to learn technologies related to building a robust and production ready application.
+Hey folks Ramyashree here I'm passionate about software development and my interest mainly lies in application development & cloud. Fast forward to today, my main focus is to learn new technologies and contribute!
 </div>
 
 <h2 align="center"> Languages and Tools </h2>
