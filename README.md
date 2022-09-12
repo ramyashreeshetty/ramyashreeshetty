@@ -6,7 +6,7 @@ Hey folks 👋 I'm open to collaborate and my interest mainly lies in applicatio
  &nbsp;
   
  <div align="center">
- <img src="https://user-images.githubusercontent.com/43513353/189687385-38465c69-c64d-45ab-8813-00455a721b17.svg">
+ <img src="https://user-images.githubusercontent.com/43513353/189687385-38465c69-c64d-45ab-8813-00455a721b17.svg" width="280" height="180">
  <div>
    
 <h4 align="center"> Languages and Tools </h4>
