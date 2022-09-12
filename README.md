@@ -23,7 +23,7 @@ Hey folks 👋 I'm open to collaborate and my interest mainly lies in applicatio
 ![AWS](https://img.shields.io/badge/-AWS-000000?&logo=amazon-aws)
  
   <a href="https://ramyashreeshetty.github.io/">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ramyashreeshetty&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&icon_color=000&bg_color=000&theme=graywhite" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ramyashreeshetty&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&icon_color=000&bg_color=000&theme=graywhite" />&nbsp;
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramyashreeshetty&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=fff&icon_color=fff&bg_color=000&theme=graywhite" />
   </a>
   
