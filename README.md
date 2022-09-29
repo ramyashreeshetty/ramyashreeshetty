@@ -4,11 +4,11 @@ Hey folks 👋 I'm open to collaborate and my interest lies in application devel
   </div>
   
  &nbsp;
-  
+
  <div align="center">
- <img src="https://user-images.githubusercontent.com/43513353/189687385-38465c69-c64d-45ab-8813-00455a721b17.svg" width="280" height="180">
+ <img src="https://user-images.githubusercontent.com/43513353/193092335-7355894e-ba3b-4c2b-ab33-0dfce0e653ba.png" width="150" height="200">
  <div>
-   
+
 <h4 align="center"> Languages and Tools </h4>
 <div align="center">
   
