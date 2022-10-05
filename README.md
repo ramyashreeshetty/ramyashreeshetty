@@ -14,13 +14,14 @@ Hi 👋 I'm open to collaborate and my interest lies in app dev & cloud tech. Fa
   
 ![C](https://img.shields.io/badge/-C-000000?&logo=C)
 ![Python](https://img.shields.io/badge/-Python-000000?&logo=Python)
-![Java](https://img.shields.io/badge/-Java-000000?&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-000000?&logo=jdk)
 ![Android](https://img.shields.io/badge/-AndroidStudio-000000?&logo=Android)
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?&logo=Firebase)
 ![HTML](https://img.shields.io/badge/-HTML-000000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?&logo=CSS3)
 ![SQL](https://img.shields.io/badge/-SQL-000000?&logo=MySQL)
 ![AWS](https://img.shields.io/badge/-AWS-000000?&logo=amazon-aws)
+![Snowflake](https://img.shields.io/badge/-Snowflake-000000?&logo=snowflake)
  
   <a href="https://ramyashreeshetty.github.io/">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ramyashreeshetty&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&icon_color=000&bg_color=000&theme=graywhite" />
