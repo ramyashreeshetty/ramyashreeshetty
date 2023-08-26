@@ -1,6 +1,6 @@
 <body>
   <div align="center">
-Hi 👋 I'm open to collaborate and my interest lies in app dev & cloud tech. Fast forward to today, my main focus is to learn new technologies and contribute!
+Hi 👋 I'm open to collaborate and my interest lies in data engg, app dev & cloud tech. Fast forward to today, my main focus is to learn new technologies and contribute!
   </div>
   
  &nbsp;
