@@ -1,13 +1,9 @@
-<body>
-  <div align="center">
-Hi 👋 I'm open to collaborate and my interest lies in data engg, app dev & cloud tech. Fast forward to today, my main focus is to learn new technologies and contribute!
-  </div>
-  
- &nbsp;
+## Hi there 👋, my name is  Ramyashree Shetty
 
- <div align="center">
- <img src="https://user-images.githubusercontent.com/43513353/193092335-7355894e-ba3b-4c2b-ab33-0dfce0e653ba.png" width="75" height="100">
- <div>
+### I am a passionate data engineer who enjoys exploring data related tools/tech. 
+
+
+- 🔭 I’m currently working on: ETL Pipelines.
 
 <h4 align="center"> Languages and Tools </h4>
 <div align="center">
