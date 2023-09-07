@@ -3,8 +3,8 @@
 ### I am a passionate data engineer who enjoys exploring data related tools/tech. 
 
 
-- 🔭 I’m currently working on: ETL Pipelines.
-- Languages and Tools
+- 🔭 I’m currently working on: ETL Pipelines
+- Languages and Tools:
 ![C](https://img.shields.io/badge/-C-000000?&logo=C)
 ![Python](https://img.shields.io/badge/-Python-000000?&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-000000?&logo=jdk)
