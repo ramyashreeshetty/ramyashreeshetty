@@ -3,18 +3,24 @@
 ### I am a passionate data engineer who enjoys exploring data related tools/tech. 
 
 
-- 🔭 I’m currently working on: ETL Pipelines
-- Languages and Tools:
-![C](https://img.shields.io/badge/-C-000000?&logo=C)
+- 🔭 I’m currently exploring AWS Glue, Databricks, Pyspark!
+- Crrently working on Skills:
 ![Python](https://img.shields.io/badge/-Python-000000?&logo=Python)
+![SQL](https://img.shields.io/badge/-SQL-000000?&logo=MySQL)
+![AWS](https://img.shields.io/badge/-AWS-000000?&logo=amazon-aws)
+![Snowflake](https://img.shields.io/badge/-Snowflake-000000?&logo=snowflake)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?&logo=apacheairflow)
+
+- Also interested in:
+![C](https://img.shields.io/badge/-C-000000?&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000000?&logo=jdk)
 ![Android](https://img.shields.io/badge/-AndroidStudio-000000?&logo=Android)
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?&logo=Firebase)
 ![HTML](https://img.shields.io/badge/-HTML-000000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?&logo=CSS3)
-![SQL](https://img.shields.io/badge/-SQL-000000?&logo=MySQL)
-![AWS](https://img.shields.io/badge/-AWS-000000?&logo=amazon-aws)
-![Snowflake](https://img.shields.io/badge/-Snowflake-000000?&logo=snowflake)
+![React](https://img.shields.io/badge/-React-000000?&logo=React)
+
+
   
 <h4 align="center">Feel free to connect :heartpulse: </h4>
 <div align="center" padding="5px">
