@@ -4,10 +4,7 @@
 
 
 - 🔭 I’m currently working on: ETL Pipelines.
-
-<h4 align="center"> Languages and Tools </h4>
-<div align="center">
-  
+- Languages and Tools
 ![C](https://img.shields.io/badge/-C-000000?&logo=C)
 ![Python](https://img.shields.io/badge/-Python-000000?&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-000000?&logo=jdk)
@@ -18,13 +15,6 @@
 ![SQL](https://img.shields.io/badge/-SQL-000000?&logo=MySQL)
 ![AWS](https://img.shields.io/badge/-AWS-000000?&logo=amazon-aws)
 ![Snowflake](https://img.shields.io/badge/-Snowflake-000000?&logo=snowflake)
- 
-  <a href="https://ramyashreeshetty.github.io/">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ramyashreeshetty&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&icon_color=000&bg_color=000&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramyashreeshetty&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=fff&icon_color=fff&bg_color=000&theme=graywhite" />
-  </a>
-  
-</div>
   
 <h4 align="center">Feel free to connect :heartpulse: </h4>
 <div align="center" padding="5px">
