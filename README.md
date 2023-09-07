@@ -3,7 +3,7 @@
 ### I am a passionate data engineer who enjoys exploring data related tools/tech. 
 
 
-- 🔭 I’m currently exploring AWS Glue, Databricks, Pyspark!
+- 🔭 I’m currently exploring Snowflake, AWS Glue, Databricks, Pyspark!
 - Crrently working on Skills:
 ![Python](https://img.shields.io/badge/-Python-000000?&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?&logo=MySQL)
