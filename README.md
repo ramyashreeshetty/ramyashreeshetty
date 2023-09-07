@@ -4,12 +4,12 @@
 
 
 - 🔭 I’m currently exploring Snowflake, AWS Glue, Databricks, Pyspark!
-- Crrently working on Skills:
+- Crrently working on:
 ![Python](https://img.shields.io/badge/-Python-000000?&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?&logo=MySQL)
 ![AWS](https://img.shields.io/badge/-AWS-000000?&logo=amazon-aws)
 ![Snowflake](https://img.shields.io/badge/-Snowflake-000000?&logo=snowflake)
-![Airflow](https://img.shields.io/badge/-Airflow-017CEE?&logo=apacheairflow)
+![Airflow](https://img.shields.io/badge/-Airflow-000000?&logo=apacheairflow)
 
 - Also interested in:
 ![C](https://img.shields.io/badge/-C-000000?&logo=C)
