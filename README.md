@@ -10,6 +10,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-000000?&logo=amazon-aws)
 ![Snowflake](https://img.shields.io/badge/-Snowflake-000000?&logo=snowflake)
 ![Airflow](https://img.shields.io/badge/-Airflow-000000?&logo=apacheairflow)
+![DBT](https://img.shields.io/badge/-Airflow-000000?&logo=dbt)
 
 - Also interested in:
 ![C](https://img.shields.io/badge/-C-000000?&logo=C)
