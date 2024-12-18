@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is  Ramyashree Shetty
 
-### I am a passionate data engineer who enjoys exploring data related tools/tech. 
+### I am a data engineer who enjoys exploring data related tools/tech. 
 
 
 - 🔭 I’m currently exploring Snowflake, AWS Glue, Pyspark, Matillion, DBT!
